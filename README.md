@@ -43,15 +43,16 @@ Smart-Home-Automation/
 │   └── pubspec.yaml
 │
 ├── ESP8266_Code/
-│   └── smart_home.ino
+│   └── esp8266_code.ino
 │
 ├── Python_Server/
 │   ├── server.py
 │   ├── gesture_control.py
 │   ├── train_model.py
-│   ├── collect_dataset.py
+│   ├── collect_data.py
 │   ├── gesture_model.pkl
 │   └── dataset.csv
+|   └── predict_gesture.py
 │
 ├── README.md
 ```
